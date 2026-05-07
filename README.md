@@ -35,6 +35,8 @@ Praticar:
 - Organização de conteúdo
 - Estilização simples com CSS
 
-## Autora
+## Preview do projeto
 
-Isis Vieira
+![Preview do site](imagem-site.png)
+
+
